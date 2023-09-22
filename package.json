@@ -1,0 +1,19 @@
+{
+  "name": "pipwerks-scorm-api-list",
+  "version": "1.0.0",
+  "description": "Module list for the Pipwerks SCORM API with list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devopsjavauser/pipwerks-scorm-api-list.git"
+  },
+  "author": "arun_devops",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devopsjavauser/pipwerks-scorm-api-list/issues"
+  },
+  "homepage": "https://github.com/devopsjavauser/pipwerks-scorm-api-list#readme"
+}
